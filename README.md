@@ -1,6 +1,6 @@
 # SnakeGame
  Simple game - Snake implemented on basic Java without any Framework
- Snake (Python, Boa, Snake, etc.) is a computer game that arose in the middle or in the late 1970s.
+ Snake  is a computer game that arose in the middle or in the late 1970s.
 The player controls a long, thin creature resembling a snake, which crawls along a plane (usually bounded by walls), 
 collecting food (or other objects), avoiding collision with its own tail and edges of the playing field. In some embodiments,
 there are additional obstacles on the field. Each time a snake eats a piece of food, it becomes longer,
